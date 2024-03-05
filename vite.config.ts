@@ -7,6 +7,5 @@ export default defineConfig({
     port: 3000
   },
   plugins: [react()],
-  assetsInclude: ['src/assets/images/**'],
-  base: '/porfolio/',
+  assetsInclude: ['src/assets/images/**']
 })
