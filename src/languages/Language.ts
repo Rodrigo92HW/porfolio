@@ -70,8 +70,8 @@ export default class Language {
         return this.languages[this.currentLanguage].extra[0];
     }
 
-    toggleLanguage = action(() => {
-        this.currentLanguage = this.currentLanguage === 'es' ? 'en' : 'es';
+    toggleLanguage = action((e : string) => {
+        this.currentLanguage = e;
     });
 
     initializeLanguage() {

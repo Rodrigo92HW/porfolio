@@ -16,11 +16,19 @@ export default observer(function Navigation() {
     const header = language.mappedExtra.header;
 
     const [radioValue, setRadioValue] = useState('1');
-
     const radios = [
         { name: 'ES', value: '1' },
         { name: 'EN', value: '2' }
     ];
+
+    const handleLanguageToggle = (selectedValue: string) => {
+        if (selectedValue === '2') {
+            language.toggleLanguage('es');
+        } else if (selectedValue === '1') {
+            language.toggleLanguage('en');
+        }
+    };
+
 
 
 
@@ -37,23 +45,24 @@ export default observer(function Navigation() {
             </Nav.Link>
             </Nav>
             <ButtonGroup>
-                <p className='language'>{language.mappedExtra.header[2]}</p>
-                {radios.map((radio, idx) => (
-                <ToggleButton
-                    key={idx}
-                    id={`radio-${idx}`}
-                    type="radio"
-                    variant={idx % 2 ? 'outline-success' : 'outline-success'}
-                    name="radio"
-                    value={radio.value}
-                    checked={radioValue === radio.value}
-                    onChange={(e) => setRadioValue(e.currentTarget.value)}
-                    onClick={() => language.toggleLanguage()}
-                >
-                    {radio.name}
-                </ToggleButton>
-                ))}
-        </ButtonGroup>
+    <p className='language'>{language.mappedExtra.header[2]}</p>
+    {radios.map((radio, idx) => (
+        <ToggleButton
+            key={idx}
+            id={`radio-${idx}`}
+            type="radio"
+            variant={idx % 2 ? 'outline-success' : 'outline-success'}
+            name="radio"
+            value={radio.value}
+            checked={radioValue === radio.value}
+            onChange={(e) => setRadioValue(e.currentTarget.value)}
+            onClick={() => handleLanguageToggle(radio.value)}
+        >
+            {radio.name}
+        </ToggleButton>
+    ))}
+</ButtonGroup>
+
         </Container>
         </Navbar>
     );
