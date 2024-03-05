@@ -17,7 +17,7 @@ return (
     <Card style={{width: '22rem', height: '10rem', margin: '1%'}}>
         <Row>
             <Col md={2}>
-            <Card.Img src={skill.img} style={{width: '50px', padding: '10%', marginTop: '40%'}} />
+            <Card.Img src={skill.img} style={{width: '60px', padding: '10%', marginTop: '40%'}} />
             </Col>
             <Col md={10}>
             <Card.Body>
