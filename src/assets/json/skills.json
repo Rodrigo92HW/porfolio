@@ -1,0 +1,156 @@
+[
+    [{
+        "name" : "HTML",
+        "text": "Knowledge of the basic elements and neccesary bases need in web development, configuration and functionality.",
+        "level" : 4,
+        "levelMeaning" : "Advanced",
+        "img": "src/assets/images/html.png"
+    },
+    {
+        "name" : "CSS",
+        "text": "Skilled in personalize style creation and Boostrap and Semantic UI libraries.",
+        "level" : 4,
+        "levelMeaning" : "Advanced",
+        "img": "src/assets/images/css.png"
+    },
+    {
+        "name" : "JavaScript",
+        "text": "Knowledge of the functions, for, maps, filter and all the basic functions.",
+        "level" : 4,
+        "levelMeaning" : "Advanced",
+        "img": "src/assets/images/JS.png"
+    },
+    {
+        "name" : "React",
+        "text": "Knowledge of React functions, UseState, UseEffect, passing components and most functions.",
+        "level" : 4,
+        "levelMeaning" : "Advanced",
+        "img": "src/assets/images/react.png"
+    },
+    {
+        "name" : "TypeScript",
+        "text": "Manipulation of static types and classes, and knowledge of most of the aditional functionabilty it provides.",
+        "level" : 3,
+        "levelMeaning" : "Intermediate",
+        "img": "src/assets/images/TS.png"
+    },
+    {
+        "name" : ".Net Core",
+        "text": "Knowledge of the bases of NetCore thanks to a project created in base of Udemy lessons/project.",
+        "level" : 3,
+        "levelMeaning" : "Intermediate",
+        "img": "src/assets/images/net_core.png"
+    },
+    {
+        "name" : "C#",
+        "text": "Learn throw a mix of Udemy lessons and game development in Unity.",
+        "level" : 3,
+        "levelMeaning" : "Intermediate",
+        "img": "src/assets/images/C.png"
+    },
+    {
+        "name" : "Unity",
+        "text": "Learnt throw developing projects with NoNi Games.",
+        "level" : 3,
+        "levelMeaning" : "Intermediate",
+        "img": "src/assets/images/unity.png"
+    },
+    {
+        "name" : "Spanish",
+        "text": "Skilled in comprehension, speaking and writing to a native level.",
+        "level" : 5,
+        "levelMeaning" : "Expert",
+        "img": "src/assets/images/spanish.png"
+    },
+    {
+        "name" : "English",
+        "text": "Advanced studies having the pass the FIRST test, omprehension, speaking and writing to an advance level.",
+        "level" : 5,
+        "levelMeaning" : "Expert",
+        "img": "src/assets/images/english.png"
+    },
+    {
+        "name" : "Excel",
+        "text": "Profesional knowledge, creation of functions, VLOOKUP, filters and all advance functions.",
+        "level" : 5,
+        "levelMeaning" : "Expert",
+        "img": "src/assets/images/excel.png"
+    }],
+    [{
+        "name" : "HTML",
+        "text": "Conocimiento de elementos y bases necesarias para el desarrollo web, configuración y funcionamiento.",
+        "level" : 4,
+        "levelMeaning" : "Avanzado",
+        "img": "src/assets/images/html.png"
+    },
+    {
+        "name" : "CSS",
+        "text": "Habilidad en la creación de estilos personalizados y aplicacion de Boostrap y Semantic UI.",
+        "level" : 4,
+        "levelMeaning" : "Avazando",
+        "img": "src/assets/images/css.png"
+    },
+    {
+        "name" : "JavaScript",
+        "text": "Conocimiento sobre funciones, for, maps, filter y demas funciones afines.",
+        "level" : 4,
+        "levelMeaning" : "Avazando",
+        "img": "src/assets/images/JS.png"
+    },
+    {
+        "name" : "React",
+        "text": "Conocimiento de funciones propias de React, UseState, UseEffect, pasaje de componentes y demas.",
+        "level" : 4,
+        "levelMeaning" : "Avazando",
+        "img": "src/assets/images/react.png"
+    },
+    {
+        "name" : "TypeScript",
+        "text": "Manejo de tipos estaticos y clases, y saber de las demas funciones adicionales que este provee.",
+        "level" : 3,
+        "levelMeaning" : "Intermedio",
+        "img": "src/assets/images/TS.png"
+    },
+    {
+        "name" : ".Net Core",
+        "text": "Comprensión de las bases de NetCore gracias a un projecto creado a partir de lecciones de Udemy.",
+        "level" : 3,
+        "levelMeaning" : "Intermedio",
+        "img": "src/assets/images/net_core.png"
+    },
+    {
+        "name" : "C#",
+        "text": "Aprendizaje conjunto de lecciones de Udemy y desarrollo de videojuegos en Unity.",
+        "level" : 3,
+        "levelMeaning" : "Intermedio",
+        "img": "src/assets/images/C.png"
+    },
+    {
+        "name" : "Unity",
+        "text": "Conocimiento desarrollado a partir de projectos en conjunto al grupo de NoNi Games.",
+        "level" : 3,
+        "levelMeaning" : "Intermedio",
+        "img": "src/assets/images/unity.png"
+    },
+    {
+        "name" : "Spanish",
+        "text": "Capacidad de habla, escritura y comprensión a nivel nativo.",
+        "level" : 5,
+        "levelMeaning" : "Experto",
+        "img": "src/assets/images/spanish.png"
+    },
+    {
+        "name" : "English",
+        "text": "Estudios avanzados con el FIRST aprobado, comprension de escucha, escritura y habla avanzadas.",
+        "level" : 5,
+        "levelMeaning" : "Experto",
+        "img": "src/assets/images/english.png"
+    },
+    {
+        "name" : "Excel",
+        "text": "Conocimientos profesionales, creacion de funciones, VLOOKUP, filtros y demas funciones avanzadas.",
+        "level" : 5,
+        "levelMeaning" : "Experto",
+        "img": "src/assets/images/excel.png"
+    }]
+]
