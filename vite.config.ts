@@ -7,5 +7,6 @@ export default defineConfig({
     port: 3000
   },
   plugins: [react()],
-  assetsInclude: ['src/assets/images/**']
+  assetsInclude: ['src/assets/images/**'],
+  base: '/',
 })
