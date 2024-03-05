@@ -8,5 +8,5 @@ export default defineConfig({
   },
   plugins: [react()],
   assetsInclude: ['src/assets/images/**'],
-  base: '/',
+  base: 'https://rodrigo92hw.github.io/porfolio',
 })
