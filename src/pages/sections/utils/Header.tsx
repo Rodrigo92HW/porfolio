@@ -28,11 +28,11 @@ export default observer(function Navigation() {
         <Navbar bg="dark" variant="dark" sticky="top"  style={{paddingTop: '5px'}}>
         <Container>
             <Navbar.Brand>Curriculum</Navbar.Brand>
-            <Nav variant="underline" defaultActiveKey="/porfolio" activeKey={activePage} className="me-auto">
-            <Nav.Link as={Link} to="/porfolio" eventKey="/porfolio" style={{ textDecoration: 'none' }}>
+            <Nav variant="underline" defaultActiveKey="/porfolio/" activeKey={activePage} className="me-auto">
+            <Nav.Link as={Link} to="/porfolio/" eventKey="/porfolio/" style={{ textDecoration: 'none' }}>
                 {header[0]}
             </Nav.Link>
-            <Nav.Link as={Link} to="/projects" eventKey="/projects" style={{ textDecoration: 'none' }}>
+            <Nav.Link as={Link} to="/projects/" eventKey="/projects/" style={{ textDecoration: 'none' }}>
                 {header[1]}
             </Nav.Link>
             </Nav>
