@@ -7,13 +7,13 @@
         "studies" : [
             {
                 "title" : "Technological University of Concordia, Entre Ríos", 
-                "content" : ["src/assets/images/UB.png", "March 2021 / July 2022 (Abandoned)", "I have passed the following subjects to date (General Average: 8.36):", "Mathematics (I and II), Computer Laboratory (I and II), English (I and II), Data Processing Systems, Statistics, Programming (I and II), Concepts of Architectures and Operating Systems."]
+                "content" : ["March 2021 / July 2022 (Abandoned)", "I have passed the following subjects to date (General Average: 8.36):", "Mathematics (I and II), Computer Laboratory (I and II), English (I and II), Data Processing Systems, Statistics, Programming (I and II), Concepts of Architectures and Operating Systems."]
             }, {
                 "title" : "University of Belgrano, Buenos Aires, Capital Federal",
                 "content" : ["March 2017 / August 2021", "I successfully completed the curriculum that provides a solid theoretical foundation in line with practical knowledge from the first year of the career (General Average: 7.80).", "Specialized Courses: Legal Informatics, Media, Consumer Protection, and Criminology."]
             } , {
                 "title" : "CoderHouse", 
-                "content": ["src/assets/images/TS.png", "Starting..."]
+                "content": ["Starting..."]
             }
         ],
         "experience" : [
