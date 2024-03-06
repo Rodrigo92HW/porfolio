@@ -16,20 +16,11 @@ code {
 div#root, html {
   background-color: #323235;
   color: #d9d4d4;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
-/* Scrolling Contact */
-.scrollContact {
-  position: absolute;
-  right: 0;
-  width: 150px !important;
-}
-
-.scrollContact img {
-  margin-top: 5px;
-}
-
-
+/* Separation Bar*/
 .hr-container {
   background: linear-gradient(to bottom, #323235, #f0f0f0, #323235);
   height: 10px;
