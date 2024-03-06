@@ -17,7 +17,7 @@ projects: {
     img: string[];
     bannerImage: string[];
     bannerText: string[];
-    longText: string;
+    longText: string[];
 }[];
 personalInfo: {
     city: string[];

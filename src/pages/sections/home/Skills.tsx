@@ -15,7 +15,7 @@ export default observer(function Skills() {
             <Col>
                 <Row>
                 {language.mappedSkills.map((_, index) => (
-                    <Col sm={2} md={3} key={index}>
+                    <Col md={6} xl={4} key={index}>
                     <SkillCard
                         index={index}
                     />

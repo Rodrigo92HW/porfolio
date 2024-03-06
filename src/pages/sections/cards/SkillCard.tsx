@@ -14,7 +14,7 @@ export default observer(function SkillCard({index} : Props) {
     const skill = language.mappedSkills[index];
 
 return (
-    <Card style={{width: '22rem', height: '10rem', margin: '1%'}}>
+    <Card style={{minWidth: '350px', margin: '1%'}}>
         <Row>
             <Col md={2}>
             <Card.Img src={skill.img} style={{width: '60px', padding: '10%', marginTop: '40%'}} />
