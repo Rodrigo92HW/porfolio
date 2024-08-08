@@ -1,0 +1,170 @@
+[
+    [
+        {
+            "city": [
+                "Cities",
+                "Concepción del Uruguay",
+                "C.A.B.A. (Ciudad de Buenos Aires)"
+            ],
+            "age": [
+                "Age",
+                1992,
+                "06/26/1992",
+                "Years"
+            ],
+            "titles": [
+                "Studies",
+                "Work Experiences",
+                "Certificates"
+            ],
+            "studies": [
+                {
+                    "title": "Technological University of Concordia, Entre Ríos",
+                    "content": [
+                        "March 2021 / July 2022 (Abandoned)",
+                        "I have passed the following subjects to date (General Average: 8.36).",
+                        "Mathematics (I and II), Computer Laboratory (I and II), English (I and II), Data Processing Systems, Statistics, Programming (I and II), Concepts of Architectures and Operating Systems."
+                    ]
+                },
+                {
+                    "title": "University of Belgrano, Buenos Aires, Capital Federal",
+                    "content": [
+                        "March 2017 / August 2021",
+                        "I successfully completed the curriculum that provides a solid theoretical foundation in line with practical knowledge from the first year of the career (General Average: 7.80).",
+                        "Specialized Courses: Legal Informatics, Media, Consumer Protection, and Criminology."
+                    ]
+                },
+                {
+                    "title": "CoderHouse",
+                    "content": [
+                        "Starting..."
+                    ]
+                }
+            ],
+            "experience": [
+                {
+                    "title": "Harispe Pharmacy - Concepción del Uruguay",
+                    "content": [
+                        "January 2013 / January 2023 (Interrupted)",
+                        "Technical Assistant at Harispe Pharmacy (10 years).",
+                        "Contributed to the installation and maintenance of equipment and work systems. Development of Excel for task management.",
+                        "Performed messenger and assistance tasks during 24-hour workdays, which took place monthly.",
+                        "Worked closely with the pharmacy team, providing technical support and assistance in various tasks."
+                    ]
+                },
+                {
+                    "title": "Noni Games - Capital Federal",
+                    "content": [
+                        "January 2022 / June 2022 & March 2023 / January 2024 (Abandoned)",
+                        "Unity Developer.",
+                        "Acted as a Unity developer and assisted the rest of my team with the creation of 3D models created in Blender, and their subsequent incorporation into the project.",
+                        "Participated in the creation of a game that received great mentions and praise at the Cordoba Programming Festival.",
+                        "Acted as a Unity developer and assisted in the creative process, along with the development of ideas that would bring forward the design of the levels of this project.",
+                        "Participated in events in the city of Buenos Aires and contests with the rest of my team."
+                    ]
+                },
+                {
+                    "title": "Holbox - Capital Federal",
+                    "content": [
+                        "February 2023 / Present",
+                        "Manager of Commerce and Technical Assistance in a beverage store.",
+                        "I hold the position of supervisor and general manager of the branch, being in charge of personnel control, stock, and other administrative tasks that require my control.",
+                        "Work in retail, cash management, and other tasks that my position requires."
+                    ]
+                },
+                {
+                    "title": "Freelance",
+                    "content": [
+                        "February 2013 / Present",
+                        "I have worked on personal projects, assisting friends or acquaintances with their projects, especially those involving web development."
+                    ]
+                }
+            ],
+            "img": "src/assets/images/profile.png"
+        }
+    ],
+    [
+        {
+            "city": [
+                "Ciudades",
+                "Concepción del Uruguay",
+                "C.A.B.A. (Ciudad de Buenos Aires)"
+            ],
+            "age": [
+                "Edad",
+                1992,
+                "26/06/1992",
+                "Años"
+            ],
+            "titles": [
+                "Estudios",
+                "Experiencia Laboral",
+                "Certificados"
+            ],
+            "studies": [
+                {
+                    "title": "Universidad Tecnológica de Concordia, Entre Ríos",
+                    "content": [
+                        "Marzo 2021 / Julio 2022 (Abandonado)",
+                        "Poseo las siguientes materias aprobadas al día de la fecha (Promedio General: 8.36).",
+                        "Matemática (I y II), Laboratorio de Computación (I y II), Inglés (I y II), Sistemas de Procesamiento de Datos, Estadística, Programación (I y II), Conceptos de Arquitecturas y Sistemas Operativos."
+                    ]
+                },
+                {
+                    "title": "Universidad de Belgrano, Buenos Aires, Capital Federal",
+                    "content": [
+                        "Marzo 2017 / Agosto 2021",
+                        "Logre completar exitosamente el plan de estudios que brinda una sólida formación teórica en sintonía con saberes prácticos desde el primer año de la carrera (Promedio General: 7.80).",
+                        "Cursos especializados: Informática Juridica, Medios de Comunicación, Defensa al Consumidor y Criminología."
+                    ]
+                },
+                {
+                    "title": "CoderHouse",
+                    "content": [
+                        "Iniciando..."
+                    ]
+                }
+            ],
+            "experience": [
+                {
+                    "title": "Farmacia Harispe - Concepción del Uruguay",
+                    "content": [
+                        "Enero 2013 / Enero 2023 (Interrumpido)",
+                        "Ayudante Técnico en Farmacia Harispe (10 años).",
+                        "Contribuí en la instalación y mantenimiento de equipos y sistemas de trabajo. Desarrollo de Excel para gestión de tareas.",
+                        "Realicé tareas de mensajería y asistencia durante jornadas de trabajo de 24 horas, que se llevaban a cabo mensualmente.",
+                        "Trabajé en estrecha colaboración con el equipo de la farmacia, brindando apoyo técnico y asistencia en diversas tareas."
+                    ]
+                },
+                {
+                    "title": "Noni Games - Capital Federal",
+                    "content": [
+                        "Enero 2022 / Junio 2022 & Marzo 2023 / Enero 2024 (Abandonado)",
+                        "Desarrollador de Unity.",
+                        "Actúe como desarrollador de Unity y asistí al resto de mi equipo con la creación de modelos 3D creados en Blender, y su posterior incorporación en el proyecto.",
+                        "Participe en la creación de un juego que obtuvo grandes menciones y halagos en el festival de Programación de Córdoba.",
+                        "Actue como desarrollador de Unity y asisti en el proceso creativo, junto con la elaboración de ideas que traerían adelante el diseño de los niveles de este projecto.",
+                        "Participe en eventos de la ciudad de Buenos Aires y concursos junto al resto de mi equipo."
+                    ]
+                },
+                {
+                    "title": "Holbox - Capital Federal",
+                    "content": [
+                        "Febrero 2023 / Presente",
+                        "Encargado de Comercio y Asistencia Técnica en local de bebidas.",
+                        "Ostento el cargo de supervisor y encargado general de la sucursal, quedando en mis manos el control de personal, stock y demás tareas administrativas que requieran de mi control.",
+                        "Trabajo en venta al consumidor, manejo de caja y demás tareas que mi posición requiere."
+                    ]
+                },
+                {
+                    "title": "Freelance",
+                    "content": [
+                        "Febrero 2013 / Presente",
+                        "He trabajado en proyectos personales, asistiendo a amigos o conocidos con sus proyectos, en especial aquellos que involucran el desarrollo web."
+                    ]
+                }
+            ],
+            "img": "src/assets/images/profile.png"
+        }
+    ]
+]

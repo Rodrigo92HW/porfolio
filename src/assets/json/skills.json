@@ -1,0 +1,156 @@
+[
+    [{
+        "name" : "HTML",
+        "text": "Knowledge of the basic elements and neccesary bases need in web development, configuration and functionality.",
+        "level" : 4,
+        "levelMeaning" : "Advanced",
+        "img": "https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png"
+    },
+    {
+        "name" : "CSS",
+        "text": "Skilled in personalize style creation and Boostrap and Semantic UI libraries.",
+        "level" : 4,
+        "levelMeaning" : "Advanced",
+        "img": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png"
+    },
+    {
+        "name" : "JavaScript",
+        "text": "Knowledge of the functions, for, maps, filter and all the basic functions.",
+        "level" : 4,
+        "levelMeaning" : "Advanced",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"
+    },
+    {
+        "name" : "React",
+        "text": "Knowledge of React functions, UseState, UseEffect, passing components and most functions.",
+        "level" : 4,
+        "levelMeaning" : "Advanced",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"
+    },
+    {
+        "name" : "TypeScript",
+        "text": "Manipulation of static types and classes, and knowledge of most of the aditional functionabilty it provides.",
+        "level" : 3,
+        "levelMeaning" : "Intermediate",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/800px-Typescript_logo_2020.svg.png"
+    },
+    {
+        "name" : ".Net Core",
+        "text": "Knowledge of the bases of NetCore thanks to a project created in base of Udemy lessons/project.",
+        "level" : 3,
+        "levelMeaning" : "Intermediate",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"
+    },
+    {
+        "name" : "C#",
+        "text": "Learn throw a mix of Udemy lessons and game development in Unity.",
+        "level" : 3,
+        "levelMeaning" : "Intermediate",
+        "img": "https://miro.medium.com/v2/resize:fit:375/1*NhpIIUL7AFgKKn30gKoDUw.png"
+    },
+    {
+        "name" : "Unity",
+        "text": "Learnt throw developing projects with NoNi Games.",
+        "level" : 3,
+        "levelMeaning" : "Intermediate",
+        "img": "https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec"
+    },
+    {
+        "name" : "Spanish",
+        "text": "Skilled in comprehension, speaking and writing to a native level.",
+        "level" : 5,
+        "levelMeaning" : "Expert",
+        "img": "https://cdn-icons-png.flaticon.com/512/1377/1377973.png"
+    },
+    {
+        "name" : "English",
+        "text": "Advanced studies having the pass the FIRST test, omprehension, speaking and writing to an advance level.",
+        "level" : 5,
+        "levelMeaning" : "Expert",
+        "img": "https://cdn-icons-png.flaticon.com/512/1377/1377975.png"
+    },
+    {
+        "name" : "Excel",
+        "text": "Profesional knowledge, creation of functions, VLOOKUP, filters and all advance functions.",
+        "level" : 5,
+        "levelMeaning" : "Expert",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"
+    }],
+    [{
+        "name" : "HTML",
+        "text": "Conocimiento de elementos y bases necesarias para el desarrollo web, configuración y funcionamiento.",
+        "level" : 4,
+        "levelMeaning" : "Avanzado",
+        "img": "https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png"
+    },
+    {
+        "name" : "CSS",
+        "text": "Habilidad en la creación de estilos personalizados y aplicacion de Boostrap y Semantic UI.",
+        "level" : 4,
+        "levelMeaning" : "Avazando",
+        "img": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png"
+    },
+    {
+        "name" : "JavaScript",
+        "text": "Conocimiento sobre funciones, for, maps, filter y demas funciones afines.",
+        "level" : 4,
+        "levelMeaning" : "Avazando",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"
+    },
+    {
+        "name" : "React",
+        "text": "Conocimiento de funciones propias de React, UseState, UseEffect, pasaje de componentes y demas.",
+        "level" : 4,
+        "levelMeaning" : "Avazando",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"
+    },
+    {
+        "name" : "TypeScript",
+        "text": "Manejo de tipos estaticos y clases, y saber de las demas funciones adicionales que este provee.",
+        "level" : 3,
+        "levelMeaning" : "Intermedio",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/800px-Typescript_logo_2020.svg.png"
+    },
+    {
+        "name" : ".Net Core",
+        "text": "Comprensión de las bases de NetCore gracias a un projecto creado a partir de lecciones de Udemy.",
+        "level" : 3,
+        "levelMeaning" : "Intermedio",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"
+    },
+    {
+        "name" : "C#",
+        "text": "Aprendizaje conjunto de lecciones de Udemy y desarrollo de videojuegos en Unity.",
+        "level" : 3,
+        "levelMeaning" : "Intermedio",
+        "img": "https://miro.medium.com/v2/resize:fit:375/1*NhpIIUL7AFgKKn30gKoDUw.png"
+    },
+    {
+        "name" : "Unity",
+        "text": "Conocimiento desarrollado a partir de projectos en conjunto al grupo de NoNi Games.",
+        "level" : 3,
+        "levelMeaning" : "Intermedio",
+        "img": "https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec"
+    },
+    {
+        "name" : "Spanish",
+        "text": "Capacidad de habla, escritura y comprensión a nivel nativo.",
+        "level" : 5,
+        "levelMeaning" : "Experto",
+        "img": "https://cdn-icons-png.flaticon.com/512/1377/1377973.png"
+    },
+    {
+        "name" : "English",
+        "text": "Estudios avanzados con el FIRST aprobado, comprension de escucha, escritura y habla avanzadas.",
+        "level" : 5,
+        "levelMeaning" : "Experto",
+        "img": "src/assets/images/english.png"
+    },
+    {
+        "name" : "Excel",
+        "text": "Conocimientos profesionales, creacion de funciones, VLOOKUP, filtros y demas funciones avanzadas.",
+        "level" : 5,
+        "levelMeaning" : "Experto",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"
+    }]
+]

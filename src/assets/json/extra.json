@@ -1,0 +1,24 @@
+[
+    [
+        {
+            "name": "Rodrigo Harispe",
+            "presentation" : "Good day, my name is Rodrigo Harispe, I am a lover and student of Programming, waiting for the opportunity to apply my knowledge acquired in academic studies and my specialized courses on Udemy. I started my journey in programming by creating small websites for use in role-playing games and have advanced and deepened my knowledge by specializing in web development focused on React.",
+            "myself" : "ABOUT ME",
+            "skill" : "SKILLS",
+            "project" : "PROJECTS",
+            "contact" : ["Contact", "Info"],
+            "header" : ["Home", "Projects", "Language"]
+        }
+    ],
+    [
+        {
+            "name": "Rodrigo Harispe",
+            "presentation" : "Buen dia, mi nombre es Rodrigo Harispe, soy un amante y estudiante de Programación, en espera de la oportunidad de aplicar mis conocimientos adquiridos en estudios academicos y de mis cursos especializados en Udemy. Inicie mi camino en la programación creando pequeñas webs para usar en juegos de rol y he avanzado y profundizado mis conocimientos especializandome en el desarrollo web centrado en React.",
+            "myself" : "SOBRE MI",
+            "skill" : "HABILIDADES",
+            "project" : "PROJECTOS",
+            "contact" : ["Información", "de", "Contacto"],
+            "header" : ["Principal", "Projectos", "Lenguaje"]
+        }
+    ]
+]

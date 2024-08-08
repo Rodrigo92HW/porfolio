@@ -1,0 +1,18 @@
+/* Project Main Page */
+div.projectCard {
+    font-size: larger;
+
+    p {
+        font-size: smaller;
+    }
+
+    small.text-muted {
+        font-size: x-small;
+    }
+}
+
+/* Project Section */
+.fullProjectCard {
+    margin-bottom: 3%;
+    height: fit-content;
+}

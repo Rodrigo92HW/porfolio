@@ -1,0 +1,13 @@
+/* Titles */
+.col-md-1 p {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-size: x-large;
+}
+
+p.language {
+    all: unset;
+    font-size: larger;
+    margin-right: 5%;
+    padding-top: 1%;
+}

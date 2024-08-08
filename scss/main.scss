@@ -1,0 +1,35 @@
+/* Imports */
+/* Cards */
+@import "./cards/cardsGeneral";
+@import "./cards/personalCard";
+/* Elements */
+@import "./elements/banner";
+@import "./elements/elements";
+@import "./elements/titles";
+/* Sections */
+@import "./sections/footer";
+@import "./sections/intro";
+@import "./sections/projects";
+
+/* Root code */
+div#root,
+html {
+    background-color: #323235;
+    color: #d9d4d4;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
