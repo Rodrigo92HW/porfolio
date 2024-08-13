@@ -19,7 +19,7 @@
             ],
             "studies": [
                 {
-                    "title": "Technological University of Concordia, Entre Ríos",
+                    "title": ["Programming Technichal Degree", "Technological University of Concordia, Entre Ríos"],
                     "content": [
                         "March 2021 / July 2022 (Abandoned)",
                         "I have passed the following subjects to date (General Average: 8.36).",
@@ -27,7 +27,7 @@
                     ]
                 },
                 {
-                    "title": "University of Belgrano, Buenos Aires, Capital Federal",
+                    "title": ["Law", "University of Belgrano, Buenos Aires, Capital Federal"],
                     "content": [
                         "March 2017 / August 2021",
                         "I successfully completed the curriculum that provides a solid theoretical foundation in line with practical knowledge from the first year of the career (General Average: 7.80).",
@@ -35,7 +35,7 @@
                     ]
                 },
                 {
-                    "title": "CoderHouse",
+                    "title": ["Fullstack Developer - ReactJS", "CoderHouse"],
                     "content": [
                         "Starting..."
                     ]
@@ -43,7 +43,7 @@
             ],
             "experience": [
                 {
-                    "title": "Harispe Pharmacy - Concepción del Uruguay",
+                    "title": ["Technical Assistant and Salesman", "Harispe Pharmacy - Concepción del Uruguay"],
                     "content": [
                         "January 2013 / January 2023 (Interrupted)",
                         "Technical Assistant at Harispe Pharmacy (10 years).",
@@ -53,7 +53,7 @@
                     ]
                 },
                 {
-                    "title": "Noni Games - Capital Federal",
+                    "title": ["Jr. Developer", "Noni Games - Capital Federal"],
                     "content": [
                         "January 2022 / June 2022 & March 2023 / January 2024 (Abandoned)",
                         "Unity Developer.",
@@ -64,7 +64,7 @@
                     ]
                 },
                 {
-                    "title": "Holbox - Capital Federal",
+                    "title": ["Manager and Salesman", "Holbox - Capital Federal"],
                     "content": [
                         "February 2023 / Present",
                         "Manager of Commerce and Technical Assistance in a beverage store.",
@@ -73,9 +73,10 @@
                     ]
                 },
                 {
-                    "title": "Freelance",
+                    "title": ["Developer", "Freelance"],
                     "content": [
                         "February 2013 / Present",
+                        "HTML, CSS, JavaScript, ReactJS and .Net Developer",
                         "I have worked on personal projects, assisting friends or acquaintances with their projects, especially those involving web development."
                     ]
                 }
@@ -103,7 +104,7 @@
             ],
             "studies": [
                 {
-                    "title": "Universidad Tecnológica de Concordia, Entre Ríos",
+                    "title": ["Tecnicatura en Programación", "Universidad Tecnológica de Concordia, Entre Ríos"], 
                     "content": [
                         "Marzo 2021 / Julio 2022 (Abandonado)",
                         "Poseo las siguientes materias aprobadas al día de la fecha (Promedio General: 8.36).",
@@ -111,7 +112,7 @@
                     ]
                 },
                 {
-                    "title": "Universidad de Belgrano, Buenos Aires, Capital Federal",
+                    "title": ["Abogacia", "Universidad de Belgrano, Buenos Aires, Capital Federal"],
                     "content": [
                         "Marzo 2017 / Agosto 2021",
                         "Logre completar exitosamente el plan de estudios que brinda una sólida formación teórica en sintonía con saberes prácticos desde el primer año de la carrera (Promedio General: 7.80).",
@@ -119,7 +120,7 @@
                     ]
                 },
                 {
-                    "title": "CoderHouse",
+                    "title": ["Desarrollador Fullstack ReactJS", "CoderHouse"],
                     "content": [
                         "Iniciando..."
                     ]
@@ -127,17 +128,17 @@
             ],
             "experience": [
                 {
-                    "title": "Farmacia Harispe - Concepción del Uruguay",
+                    "title": ["Ayudante Técnico y Vendedor", "Farmacia Harispe - Concepción del Uruguay"],
                     "content": [
                         "Enero 2013 / Enero 2023 (Interrumpido)",
-                        "Ayudante Técnico en Farmacia Harispe (10 años).",
+                        "Ayudante Técnico en Farmacia Harispe.",
                         "Contribuí en la instalación y mantenimiento de equipos y sistemas de trabajo. Desarrollo de Excel para gestión de tareas.",
                         "Realicé tareas de mensajería y asistencia durante jornadas de trabajo de 24 horas, que se llevaban a cabo mensualmente.",
                         "Trabajé en estrecha colaboración con el equipo de la farmacia, brindando apoyo técnico y asistencia en diversas tareas."
                     ]
                 },
                 {
-                    "title": "Noni Games - Capital Federal",
+                    "title": ["Desarrollador Jr.", "Noni Games - Capital Federal"],
                     "content": [
                         "Enero 2022 / Junio 2022 & Marzo 2023 / Enero 2024 (Abandonado)",
                         "Desarrollador de Unity.",
@@ -148,7 +149,7 @@
                     ]
                 },
                 {
-                    "title": "Holbox - Capital Federal",
+                    "title": ["Encargado y Vendedor", "Holbox - Capital Federal"],
                     "content": [
                         "Febrero 2023 / Presente",
                         "Encargado de Comercio y Asistencia Técnica en local de bebidas.",
@@ -157,9 +158,10 @@
                     ]
                 },
                 {
-                    "title": "Freelance",
+                    "title": ["Desarrollador", "Freelance"],
                     "content": [
                         "Febrero 2013 / Presente",
+                        "Desarrollador de HTML, CSS, JavaScript, ReactJS y .Net",
                         "He trabajado en proyectos personales, asistiendo a amigos o conocidos con sus proyectos, en especial aquellos que involucran el desarrollo web."
                     ]
                 }

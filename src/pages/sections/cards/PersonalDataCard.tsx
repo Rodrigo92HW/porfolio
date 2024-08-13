@@ -14,7 +14,8 @@ export default function PersonalDataCard({index, data}: Props) {
                 <Col>
                     <Row>
                         <Col>
-                        <Card.Title>{data[index]?.title}</Card.Title>
+                        <Card.Title className="cardTitle">{data[index]?.title[0]}</Card.Title>
+                        <Card.Title>{data[index]?.title[1]}</Card.Title>
                         <Card.Subtitle style={{fontSize: 'small'}}>{data[index].content[0]}</Card.Subtitle>
                         </Col>
                     </Row>

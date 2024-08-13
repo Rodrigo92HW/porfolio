@@ -24,6 +24,11 @@
   font-size: x-large;
 }
 
+.cardTitle {
+  background-color: rgba(32, 32, 34, 0.1568627451);
+  padding: 1%;
+}
+
 /* Elements */
 /* Banner */
 .banner {
